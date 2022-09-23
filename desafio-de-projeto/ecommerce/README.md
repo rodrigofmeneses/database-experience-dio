@@ -15,6 +15,6 @@
 
 #### Entregue:
  - Modelo EER -> ecommerce.png
- - Concretização via DML -> ecommerce-schema.wenbasndas
- - População do Branco de dados -> population.dsadasdas
- - Queries -> adaniodansidu
+ - Concretização via DML -> e-commerce schema.sql
+ - População do Branco de dados -> e-commerce populate.sql
+ - Queries -> e-commerce queries.sql
